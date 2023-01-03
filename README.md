@@ -9,13 +9,13 @@
 
 2) Then clone your fork down to your local computer
 
-<code>git clone https://github.com/[yourusername]/DS-NATL-080822.git;
+<code>git clone https://github.com/[yourusername]/DS-NATL-010923.git;
 </code>
 
 
 3) Add the /flatiron-school/ version as the upstream (to pull future changes)
 
-<code>git remote add upstream https://github.com/flatiron-school/DS-NATL-080822.git</code>
+<code>git remote add upstream https://github.com/flatiron-school/DS-NATL-010923.git</code>
 
 
 4) You can make changes to the notebooks now! Remember to push your changes to your forked version of the repo (to put your local changes up online):

@@ -3,6 +3,8 @@
 
 # Written Instructions to Connect to This Repository:
 
+Welcome to the cohort!
+
 ## These steps you should only need to do once:
 
 1) FORK this repository, creating copy on your own GitHub account

@@ -59,6 +59,6 @@ When you use the <code>CLONE</code> command in the terminal Git creates a folder
 
 But! We want you all to be able to access new lectures as they go up in the original version of the repository. In order to do that we had you set the Flation repo as the UPSTREAM repo for your FORK. This creates a relationship sort of like this:
 
-<Insert image>
+![Untitled drawing](https://user-images.githubusercontent.com/85522002/210622255-f1902603-7820-4e85-9bbb-a011a19cb3f8.png)
 
 When you FETCH from the UPSTREAM that will stage the changes in your local repo as a new branch. When you MERGE that new branch in it will finalize those changes and bring the new notebooks into your main branch on the local version. You can think of a BRANCH as small, temporary fork, or of a FORK like a bigger, permanent, BRANCH. This is not a perfect analogy, but it's pretty close.

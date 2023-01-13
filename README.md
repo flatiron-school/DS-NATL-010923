@@ -24,7 +24,7 @@ This will be the main lecture repository for the Flatiron School Data Science Co
 
 **3) Add the /flatiron-school/ version as the upstream (to pull future changes)**
 
-* Navigate into the new folder you created when you cloned down the fork, and then input this code:
+* **Navigate into the new folder** you created when you cloned down the fork, and then input this code:
 
 <code>git remote add upstream https://github.com/flatiron-school/DS-NATL-010923.git</code>
 
